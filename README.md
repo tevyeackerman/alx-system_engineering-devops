@@ -1,4 +1,4 @@
-main folder for all task.
+main folder for directory containing task.
 
 My name is Betty
 Who am I
